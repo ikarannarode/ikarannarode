@@ -63,8 +63,6 @@
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a> 
   <a >
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
@@ -100,7 +98,7 @@
 
 <h2 style="color: #44AEFB">🏆Trophy </h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=disha2004verma&theme=juicyfreshrow=1&column=7&margin-w=40&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ikarannarode&theme=juicyfreshrow=1&column=7&margin-w=40&margin-h=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Statistics -->
 
@@ -117,15 +115,15 @@
 <!-- Change the value after ?username= to your GitHub username. -->
 <div class="stats" align="center">
 
-![Disha's Stats](https://github-readme-stats.vercel.app/api?username=disha2004verma&theme=dark&column=7&card_width=20&show_icons=true&hide_border=false&count_private=false)
+![Karan's Stats](https://github-readme-stats.vercel.app/api?username=ikarannarode&theme=dark&column=7&card_width=20&show_icons=true&hide_border=false&count_private=false)
 
 
-![Disha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=disha2004verma&theme=dark&card_width=1000&hide_border=false)
+![Karan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ikarannarode&theme=dark&card_width=1000&hide_border=false)
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
     
 <!-- donut programming languages layout -->
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disha2004verma&theme=dark&layout=donut)](https://github.com/aniketakumari/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikarannarode&theme=dark&layout=donut)](https://github.com/aniketakumari/github-readme-stats)
 
 
 </div>
